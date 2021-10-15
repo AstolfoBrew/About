@@ -11,8 +11,8 @@ AstofloDev is the Development Team behind AstolfoBrew. AstolfoDev
 
 ### Development Team
 #### AstolfoBrew
-- Mokiy
+- [Mokiy](https://github.com/MokiyCodes)
 
 #### LuaX ![badge-OSS](https://img.shields.io/badge/-OSS-00ff00)
-- Mokiy
-- MJD (soon)
+- [Mokiy](https://github.com/MokiyCodes)
+- [Other LuaX Contributors](https://github.com/AstolfoBrew/LuaX/commits/main) (TODO: ADD CONTRIBUTORS LIST)
