@@ -1,0 +1,28 @@
+----------------------------------------------------------------------------------------------
+
+AstolfoBrew (ABrew, AstolfoB, AB) | A Private fork of IronBrew
+
+Contributors:
+* IB2 Contributors | Original IB2
+* Mokiy            | AstolfoBrew
+* YieldingCoder    | Helping with rewriting part of the code, to make it faster and the output even less legible
+
+Contact Mokiy:
+	Discord: Mokiy#0001
+	Reddit: /u/MokiyCodes
+	Roblox: @MokiyRBX
+	Twitter: @Mokiy
+Contact YieldingCoder:
+	Discord: YieldingCoder#2904
+	Reddit: /u/YieldingCoder
+
+----------------------------------------------------------------------------------------------
+
+This comment may be removed at script-publisher's discretion, and may be added to
+(but nothing may be removed from it, unless it's removed in it's entirety)
+although the one at the beginning of the script may not.
+
+Thank you for using AstolfoBrew!
+- Mokiy
+
+----------------------------------------------------------------------------------------------
