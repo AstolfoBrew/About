@@ -1,0 +1,13 @@
+This code, in it's obfuscated form, may be used for whichever purposes you want, as long as it is not used to:
+(a) Distribute Malware;
+(b) Distribute Pornography to, and/or of minors (as in people under the age of 18, or the legal age of consent in your country, whichever is higher), and;
+(c) Violate swiss law, US law, or law in your region.
+
+By Executing any AstolfoBrew Scripts, you agree to the above.
+
+Additionally, Reverse-engineering this Software ("Script") is permitted (and the distributor grants this right by distributing this software),
+  but modifying it, or making a "De-obfuscator" based on it's code, is not. Furthermore, distributing a reverse-engineered variant of this script is not permitted,
+  with the exception that you find "Malware" (Software that interferes with the functionality of the machine running it) in the program.
+  
+Furthermore, you agree that Mokiy, aswell as other AstolfoBrew Contributors, may not be held liable for any damages, in any way, shape or form, caused to any devices running the
+  Program.

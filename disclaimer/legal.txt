@@ -1,6 +1,0 @@
-This code, in it's obfuscated form, may be used for whichever purposes you want, as long as it is not used to:
-(a) Distribute Malware;
-(b) Distribute Pornography to, and/or of minors (as in people under the age of 18, or the legal age of consent in your country, whichever is higher), and;
-(c) Violate swiss law, US law, or law in your region.
-
-By Executing any AstolfoBrew Scripts, you agree to the above.
