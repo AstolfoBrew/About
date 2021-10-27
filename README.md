@@ -12,8 +12,11 @@ AstofloDev is the Development Team behind AstolfoBrew. AstolfoDev
 ### Development Team
 #### AstolfoBrew
 - [Mokiy](https://github.com/MokiyCodes)
-- YieldingCoder
+- [YieldingCoder](https://github.com/YieldingExploiter)
 
 #### LuaX ![badge-OSS](https://img.shields.io/badge/-OSS-00ff00)
 - [Mokiy](https://github.com/MokiyCodes)
 - [Other LuaX Contributors](https://github.com/AstolfoBrew/LuaX/commits/main) (TODO: ADD CONTRIBUTORS LIST)
+
+#### [AstolfoMC](https://github.com/AstolfoMC) ![badge-SemiOSS](https://img.shields.io/badge/Partially-OSS-00ff00)
+- [Mokiy](https://github.com/MokiyCodes)
